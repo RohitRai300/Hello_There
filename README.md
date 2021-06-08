@@ -1,6 +1,3 @@
-# Welcome
-
-
 Hi there 👋\
 My name is Rohit Rai, and currently i'm pursuing my master's in Computer Science from  IIIT Allahabad, UP,India. \
 🌱 I’m interested in algorithms and data structures\
